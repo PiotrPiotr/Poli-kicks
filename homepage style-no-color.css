@@ -6,12 +6,12 @@ float:right;
 height:100%;
 width:22%;
 margin-right:10px;
-background-color:grey;
+background-color:;
 }
 
 .right-col .container1{
 position:absolute;
-background-color:purple;
+background-color:;
 
 
 }
@@ -125,7 +125,7 @@ color: rgb(160,143,107);
 .header{
 position:relative;
 width:70%;
-background-color:red;
+background-color:;
 top:0px;
 left:0px;
 float:left;
@@ -137,7 +137,7 @@ position:;
 width:30%;
 margin:0 auto;
 width:blue;
-background-color:blue;
+background-color:;
 }
 
 #quote{
@@ -207,7 +207,7 @@ position:relative;
 height:100%;
 width: 76%;
 
-background-color:green;
+background-color:;
 overflow: hidden;
 clear:left;
 
@@ -219,12 +219,12 @@ height:100%;
 margin-left:auto;
 margin-right:auto;
 overflow:hidden;
-background-color:purple;
+background-color:;
 
 }
 .content .level{
 position:relative;
-background-color:blue;
+background-color:;
 width:76%;
 }
 

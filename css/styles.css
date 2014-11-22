@@ -1,0 +1,16 @@
+ .nav a {
+  color: #5a5a5a;
+  font-size: 19px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+	top:100px;
+
+}
+
+.nav li {
+  display: inline;
+  top:100px;	
+  background-color:#00b0ff;
+}
+
